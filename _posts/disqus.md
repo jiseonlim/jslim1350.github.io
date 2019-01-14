@@ -1,7 +1,7 @@
 ---
 category: 'IT tips'
 path: 'IT tips/:id'
-title: 'disqus'
+title: 'git blog에 disqus 적용하기'
 
 layout: nil
 ---
