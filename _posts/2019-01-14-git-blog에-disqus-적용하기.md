@@ -10,22 +10,21 @@ layout: nil
 disqus를 사용하면 github blog에 댓글 기능을 넣을 수 있다.
 
 ## disqus 가입하기
-1. [disqus](https://disqus.com/) 사이트로 이동
+1. [disqus](https://disqus.com/) 사이트로 이동 & `GET STARTED` 버튼 클릭
 ![disqus.com](../img/disqus/disqus_1.PNG)
-2. `GET STARTED` 버튼 클릭
-![get started](../img/disqus/disqus_2.PNG)
-3. 계정이 없는 경우 `Signup`, 있는 경우 `Login`
+2. 계정이 없는 경우 `Signup`, 있는 경우 `Login`
+![signup](../img/disqus/disqus_2.PNG)
+3. 내 블로그에 적용할거니 `I want to install Disqus on my site` 클릭
 ![signup](../img/disqus/disqus_3.PNG)
-4. 내 블로그에 적용할거니 `I want to install Disqus on my site` 클릭
-![install](../img/disqus/disqus_4.PNG)
-5. 정보 입력
-![input data before](../img/disqus/disqus_5.PNG)
-![input data after](../img/disqus/disqus_6.PNG)
-6. 무료 버전을 사용하려면 `Basic` 클릭
-![version](../img/disqus/disqus_7.PNG)
-![basix](../img/disqus/disqus_8.PNG)
-7. 본인의 사이트에 맞게 `platform` 선택 (이 블로그의 경우 Jekyll)
-![PLATFORM](../img/disqus/disqus_9.PNG)
+4. 정보 입력
+![input data before](../img/disqus/disqus_4.PNG)
+![input data after](../img/disqus/disqus_5.PNG)
+5. 무료 버전을 사용하려면 `Basic` 클릭
+![version](../img/disqus/disqus_6.PNG)
+![basix](../img/disqus/disqus_7.PNG)
+6. 본인의 사이트에 맞게 `platform` 선택 (이 블로그의 경우 Jekyll)
+![PLATFORM](../img/disqus/disqus_8.PNG)
+![Jekyll](../img/disqus/disqus_9.PNG)
 8. 제공된 코드를 알맞게 삽입
 ![code1](../img/disqus/disqus_10.PNG)
 ![code2](../img/disqus/disqus_11.PNG)
