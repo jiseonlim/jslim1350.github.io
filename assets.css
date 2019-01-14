@@ -73,6 +73,7 @@ html {
 
 body {
     margin: 0;
+    display: flex;
 }
 
 /* ==========================================================================
@@ -514,6 +515,7 @@ code {
   padding: 20px;
   padding-left: 260px;
   max-width: 700px;
+  flex: 1;
 }
 
 #content .control {
@@ -636,4 +638,8 @@ code {
   display: block;
   padding: 15px;
   white-space: pre;
+}
+
+.disqus_thread{
+   
 }
