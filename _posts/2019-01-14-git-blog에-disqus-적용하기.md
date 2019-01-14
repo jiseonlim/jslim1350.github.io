@@ -1,5 +1,6 @@
 ---
 category: 'IT tips'
+path: 'IT tips/:id'
 title: 'git blog에 disqus 추가하기'
 
 layout: nil
