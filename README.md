@@ -1,3 +1,6 @@
+## blog address
+https://jiseonlim.github.io/jslim1350.github.io/
+
 ## The "What ?" and the "Why ?"
 
 **Carte** is a simple Jekyll based documentation website for APIs. It is designed as a boilerplate to build your own documentation and is heavily inspired from [Swagger](http://swagger.wordnik.com/) and [I/O docs](http://www.mashery.com/product/io-docs). Fork it, add specifications for your APIs calls and customize the theme. <small>Go ahead, see if we care.</small>
