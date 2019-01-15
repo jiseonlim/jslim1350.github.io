@@ -2,5 +2,6 @@
 exclude: ['README.md']
 permalink: ':title'
 highlighter: pygments
+baseurl: 'blog'
 safe: false
 title: 'Jisun Lim'
