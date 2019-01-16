@@ -4,6 +4,8 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.nhnent.rookie.sample.mapper.SampleMapper">
     <select id="findOne" resultType="Sample">
-        select * from sample where seq = #{value}	// value값은 findeOne 함수의 파라미터값
+    
+    	<!-- value값은 findeOne 함수의 파라미터값 -->
+        select * from sample where seq = #{value}
     </select>
 </mapper>
